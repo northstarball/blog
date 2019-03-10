@@ -1,21 +1,22 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2019-03-10T16:50:03.284Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Hey everyone! This is my first blog post!
 
-I'm sure I'll write a lot more interesting things in the future.
+You're probably thinking, "this doesn't sound that interesting. Why don't you just use Facebook or something like everybody else?"
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+Well, the answer is about 33% "I don't know", another 33% "I love programming", and another 34% "no one makes blogs anymore".
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+There are plenty of other platforms that I could have chosen, like [Ghost](https://www.google.com/search?q=ghost+blog&oq=ghost+blog&aqs=chrome..69i57j0l5.1223j1j7&sourceid=chrome&ie=UTF-8), [Medium](https://medium.com/), or [Wordpress](https://wordpress.com). But those are easy, and it feels like cheating.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+Anyway, this site is more for me to practice writing, regurgitate information, and post things for your eyes to watch.
+
+Like this!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-5yh2HcIlkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+What's next? I'll probably make a favicon to make this feel a little more like home.
+
+See you around!
