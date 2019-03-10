@@ -1,6 +1,7 @@
 ---
 title: Hello World
 date: "2019-03-10T16:50:03.284Z"
+description: First blog post!
 ---
 
 Hey everyone! This is my first blog post!
